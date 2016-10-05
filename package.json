@@ -1,0 +1,24 @@
+{
+  "name": "line-messaging-api",
+  "version": "0.1.0",
+  "description": "line messaging api nodejs version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roylo/line-messaging-api.git"
+  },
+  "author": "roylo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roylo/line-messaging-api/issues"
+  },
+  "homepage": "https://github.com/roylo/line-messaging-api",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  }
+}
