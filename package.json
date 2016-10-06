@@ -1,6 +1,6 @@
 {
   "name": "line-messaging-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "line messaging api nodejs version",
   "main": "index.js",
   "scripts": {
